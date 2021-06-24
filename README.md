@@ -12,7 +12,8 @@ The objective is to learn core programming concepts that will form the foundatio
 
 A dice app which could be used to play dice at home if we lost the physical dice or could be used to assign random number to a person for some game.
 
-![Finished App]()
+![Finished App](https://user-images.githubusercontent.com/81528687/123209214-eaf94e00-d4dd-11eb-82a9-a970850b5c1d.gif)
+
 
 ## Learnings
 
@@ -27,4 +28,4 @@ A dice app which could be used to play dice at home if we lost the physical dice
 - Code and use gesture controls.
 
 
-![End Banner]()
+![End Banner](https://user-images.githubusercontent.com/81528687/123209155-d5842400-d4dd-11eb-85a9-32c78cb59f7f.png)
